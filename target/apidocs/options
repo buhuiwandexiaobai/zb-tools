@@ -1,0 +1,25 @@
+-classpath
+'/root/java_projects/zb-tools/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/root/java_projects/zb-tools/src/main/java'
+-Xdoclint:none
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/root/java_projects/zb-tools/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'zb-tools 1.0 API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' '/root/java_projects/zb-tools/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'zb-tools 1.0 API'
