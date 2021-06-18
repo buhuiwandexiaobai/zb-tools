@@ -3,7 +3,7 @@
 
     <groupId>io.github.buhuiwandexiaobai</groupId>
     <artifactId>zb-tools</artifactId>
-    <version>1.0.4.SNAPSHOT</version>
+    <version>1.0.4</version>
     <packaging>jar</packaging>
 
     <name>zb-tools</name>
@@ -25,10 +25,10 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/buhuiwandexiaobai/zb-tools.git</connection>
-        <developerConnection>scm:git:ssh://github.com:buhuiwandexiaobai/zb-tools.git</developerConnection>
+        <connection>scm:git:git@github.com:buhuiwandexiaobai/zb-tools.git</connection>
+        <developerConnection>scm:git:git@github.com:buhuiwandexiaobai/zb-tools.git</developerConnection>
         <url>http://github.com/buhuiwandexiaobai/zb-tools/tree/master</url>
-      <tag>zb-tools-1.0.3</tag>
+      <tag>v1.0.4</tag>
   </scm>
 
     <distributionManagement>
